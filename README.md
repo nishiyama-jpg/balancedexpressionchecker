@@ -1,2 +1,2 @@
 # balancedexpressionchecker
-A balance checker using stacks and linked lists - java
+A balanced expression checker using stacks and linked lists - java
